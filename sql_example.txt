@@ -1,0 +1,7 @@
+SELECT *
+
+FROM
+
+playground.test.test_table
+
+WHERE value2 < 50.00
